@@ -1,0 +1,1 @@
+html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}body{text-align:center;padding:1rem}.timer{display:flex;justify-content:center;padding:10px;background-color:#d3d3d3}.field{margin:0 20px}.value{display:block;padding:20px;background-color:#000;color:#fff;font-size:6em;line-height:.5em}
