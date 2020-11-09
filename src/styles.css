@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  text-align: center;
+  padding: 1rem;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+
+  padding: 10px;
+
+  background-color: rgb(211, 211, 211);
+}
+
+.field {
+  margin: 0px 20px;
+}
+
+.value {
+  display: block;
+  padding: 20px;
+
+  background-color: black;
+
+  color: white;
+  font-size: 6em;
+  line-height: 0.5em;
+}
